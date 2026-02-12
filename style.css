@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-  .jetbrains-mono-<uniquifier> {
+  .jetbrains-mono-font {
   font-family: "JetBrains Mono", monospace;
   font-optical-sizing: auto;
   font-weight: 800;
